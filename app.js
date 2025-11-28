@@ -1,1 +1,2 @@
-alert("hello");
+alert("hello new test ");
+console.log("lj");
